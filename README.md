@@ -1,29 +1,52 @@
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h1><strong>AI README Generator</strong></h1>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/⚡%20AI%20README%20Generator-Modern,%20Fast,%20Beautiful-6C63FF?style=for-the-badge&logo=github" alt="AI README Generator"/>
 </p>
 
-<p align="center">
-  An intelligent, web-based application that leverages large language models to <strong>automatically generate professional and visually stunning README files</strong> for any public GitHub repository.
-  <br><br>
-  Built with a modern tech stack including React and Three.js, this tool features a dynamic UI with a 3D animated landing page and a multi-page interface for a seamless user experience.
-</p>
+<br/>
+
+<div align="center">
+
+# 🌟 **AI README Generator**
+
+📝 An **intelligent web app** that leverages **LLMs** to  
+generate **professional, aesthetic, and customized README.md files**  
+for any public GitHub repository — instantly.  
+
+🎨 Built with **React, Tailwind, and Three.js**, featuring a  
+**3D animated landing page** and a **multi-step generator UI**.  
+
+</div>
 
 ---
 
-## 🚀 Key Features
+## 🚀 **Key Features**
 
--   🧠 **AI-Powered Generation:** Uses the OpenRouter API to generate comprehensive READMEs with advanced language models.
--   🔗 **GitHub Integration:** Automatically fetches repository details like description, language, and license to create context-aware content.
--   🎨 **Customizable Prompts:** Allows users to add custom instructions to tailor the generated README to their specific needs.
--   ✨ **Stunning UI/UX:** Features a vibrant, animated gradient background and a 3D interactive landing page.
--   📄 **Multi-Page Interface:** A seamless flow from a captivating landing page to the main generator and a dedicated full-screen preview.
--   🛠️ **Actionable Output:** Easily copy the generated Markdown to your clipboard or download it as a `.md` file.
+<table>
+  <tr>
+    <td>🧠 <b>AI-Powered Generation</b></td>
+    <td>Generates structured, polished READMEs using advanced language models via <b>OpenRouter API</b>.</td>
+  </tr>
+  <tr>
+    <td>🔗 <b>GitHub Integration</b></td>
+    <td>Fetches repo metadata (description, stars, license, languages) to build context-aware content.</td>
+  </tr>
+  <tr>
+    <td>🎨 <b>Customizable Prompts</b></td>
+    <td>Add your own instructions for tailored README outputs (Minimal, Startup, Professional styles).</td>
+  </tr>
+  <tr>
+    <td>✨ <b>Stunning UI/UX</b></td>
+    <td>Frosted-glass panels, gradient backgrounds, and a smooth 3D animated landing page.</td>
+  </tr>
+  <tr>
+    <td>📄 <b>Multi-Page Workflow</b></td>
+    <td>From a captivating landing → generator form → full-screen preview → one-click export.</td>
+  </tr>
+  <tr>
+    <td>🛠️ <b>Actionable Output</b></td>
+    <td>Copy the Markdown, export as <code>.md</code>, or download styled HTML/PDF versions.</td>
+  </tr>
+</table>
 
 ---
 
@@ -126,7 +149,7 @@ The application will be available at `http://localhost:3000`.
   </a>
 </p>
 
-<h3 align="center">💻 22bq1a42d4</h3>
+<h3 align="center">Abhinav Sahat</h3>
 
 <p align="center">
   <a href="https://github.com/22bq1a42d4">
