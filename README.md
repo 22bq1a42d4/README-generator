@@ -118,26 +118,48 @@ The application will be available at `http://localhost:3000`.
 
 ---
 
-## 🙋‍♂️ Author
+## 👤 Author
 
-<table>
-  <tr>
-    <td align="left" valign="middle" width="50">
-      <img src="https://avatars.githubusercontent.com/u/1024025?v=4" width="48" style="border-radius: 50%;" alt="Author Avatar"/>
-    </td>
-    <td valign="middle">
-      <strong>Seelam Abhinav</strong>
-      <br />
-      <sub>Student @ VVIT</sub>
-      <br />
-      <a href="https://github.com/22bq1a42d4" target="_blank">
-        <img src="https://img.shields.io/badge/-GitHub_Profile-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/22bq1a42d4">
+    <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%;" alt="Profile Picture"/>
+  </a>
+</p>
+
+<h3 align="center">💻 22bq1a42d4</h3>
+
+<p align="center">
+  <a href="https://github.com/22bq1a42d4">
+    <img src="https://img.shields.io/badge/GitHub-Visit_Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+  💬 *"Let’s connect & build amazing things together!"* 🚀  
+</p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=22bq1a42d4&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=22bq1a42d4&theme=radical" height="150"/>
+</p>
+
+---
+
+### 🌟 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22bq1a42d4&layout=compact&theme=radical" height="150"/>
+</p>
 
 ## 📄 License
 
