@@ -1,70 +1,144 @@
-# Getting Started with Create React App
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h1><strong>AI README Generator</strong></h1>
+      </td>
+    </tr>
+  </table>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  An intelligent, web-based application that leverages large language models to <strong>automatically generate professional and visually stunning README files</strong> for any public GitHub repository.
+  <br><br>
+  Built with a modern tech stack including React and Three.js, this tool features a dynamic UI with a 3D animated landing page and a multi-page interface for a seamless user experience.
+</p>
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Key Features
 
-### `npm start`
+-   🧠 **AI-Powered Generation:** Uses the OpenRouter API to generate comprehensive READMEs with advanced language models.
+-   🔗 **GitHub Integration:** Automatically fetches repository details like description, language, and license to create context-aware content.
+-   🎨 **Customizable Prompts:** Allows users to add custom instructions to tailor the generated README to their specific needs.
+-   ✨ **Stunning UI/UX:** Features a vibrant, animated gradient background and a 3D interactive landing page.
+-   📄 **Multi-Page Interface:** A seamless flow from a captivating landing page to the main generator and a dedicated full-screen preview.
+-   🛠️ **Actionable Output:** Easily copy the generated Markdown to your clipboard or download it as a `.md` file.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 💡 Technologies Used
 
-### `npm test`
+### 🎨 Frontend Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+        <br><sub><b>React</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://styled-components.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="50" height="50" alt="Styled Components"/>
+        <br><sub><b>Styled Components</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.framer.com/motion/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="50" height="50" alt="Framer Motion"/>
+        <br><sub><b>Framer Motion</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://threejs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="50" height="50" alt="Three.js"/>
+        <br><sub><b>Three.js</b></sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://marked.js.org/" target="_blank">
+        <img src="https://marked.js.org/img/logo-black.svg" width="50" height="50" alt="Marked.js"/>
+        <br><sub><b>Marked.js</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### `npm run build`
+### 🧠 AI & APIs
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://openrouter.ai" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/139338220?s=200&v=4" width="50" height="50" alt="OpenRouter"/>
+        <br><sub><b>OpenRouter API</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://docs.github.com/en/rest" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub API"/>
+        <br><sub><b>GitHub API</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📦 Setup and Installation
 
-### `npm run eject`
+### Prerequisites
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+-   Node.js (v18 or higher recommended)
+-   npm or yarn
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 🚀 Running Locally
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/22bq1a42d4/README-generator.git](https://github.com/22bq1a42d4/README-generator.git)
+    cd README-generator
+    ```
 
-## Learn More
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3.  **Start the development server:**
+    ```bash
+    npm start
+    ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The application will be available at `http://localhost:3000`.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🙋‍♂️ Author
 
-### Analyzing the Bundle Size
+<table>
+  <tr>
+    <td align="left" valign="middle" width="50">
+      <img src="https://avatars.githubusercontent.com/u/1024025?v=4" width="48" style="border-radius: 50%;" alt="Author Avatar"/>
+    </td>
+    <td valign="middle">
+      <strong>Seelam Abhinav</strong>
+      <br />
+      <sub>Student @ VVIT</sub>
+      <br />
+      <a href="https://github.com/22bq1a42d4" target="_blank">
+        <img src="https://img.shields.io/badge/-GitHub_Profile-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 📄 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is open-source and available under the MIT License.
