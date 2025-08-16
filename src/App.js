@@ -3,7 +3,7 @@ import { marked } from 'marked';
 import styled, { createGlobalStyle, keyframes } from 'styled-components';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Share2, Clipboard, Download, Github, Star, GitFork, Code, Scale, Eye, ArrowLeft, Terminal } from 'lucide-react';
-import * as THREE from 'https://esm.sh/three@0.164.1';
+import * as THREE from 'three';
 
 const OPENROUTER_API = "https://openrouter.ai/api/v1/chat/completions";
 const GITHUB_API_BASE = "https://api.github.com/repos";
