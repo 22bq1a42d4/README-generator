@@ -1,9 +1,8 @@
-import React, { useState, useCallback, useEffect, useRef } from 'https://esm.sh/react@18.2.0';
-// --- Importing dependencies from a CDN with pinned versions for stability ---
-import { marked } from 'https://esm.sh/marked@12.0.2';
-import styled, { createGlobalStyle, keyframes } from 'https://esm.sh/styled-components@6.1.11';
-import { motion, AnimatePresence } from 'https://esm.sh/framer-motion@11.2.10';
-import { Share2, Clipboard, Download, Github, Star, GitFork, Code, Scale, Eye, ArrowLeft, Terminal } from 'https://esm.sh/lucide-react@0.378.0';
+import React, { useState, useCallback, useEffect, useRef } from 'react';
+import { marked } from 'marked';
+import styled, { createGlobalStyle, keyframes } from 'styled-components';
+import { motion, AnimatePresence } from 'framer-motion';
+import { Share2, Clipboard, Download, Github, Star, GitFork, Code, Scale, Eye, ArrowLeft, Terminal } from 'lucide-react';
 import * as THREE from 'https://esm.sh/three@0.164.1';
 
 const OPENROUTER_API = "https://openrouter.ai/api/v1/chat/completions";
