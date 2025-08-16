@@ -418,7 +418,7 @@ export default function App() {
   const [copySuccess, setCopySuccess] = useState("");
 
   const generateReadmeWithAI = async (data) => {
-    const apiKey = "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";
+    const apiKey = process.env.REACT_APP_OPENROUTER_API_KEY;
     const model = "deepseek/deepseek-r1-0528-qwen3-8b:free";
 
     const prompt = `
